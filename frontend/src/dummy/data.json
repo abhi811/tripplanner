@@ -1,0 +1,39 @@
+{
+	"spots": [
+		{
+			"id": 1,
+			"poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Shaniwarwada_gate.JPG/1280px-Shaniwarwada_gate.JPG",
+            "name": "Shaniwar wada",
+            "regionId": "Pune"
+		},
+		{
+			"id": 2,
+			"poster": "http://www.dagdushethganpati.com/wp-content/uploads/2020/01/Dagdusheth-Ganpati-09-Jan-2020.png",
+            "name": "Shreemant Dagdusheth Halwai",
+            "regionId": "Pune"
+        },
+        {
+            "id": 3,
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Bangalore_palace.jpg/1280px-Bangalore_palace.jpg",
+            "name": "Bangalore Palace",
+            "regionId": "Bangalore"
+        },
+        {
+            "id": 4,
+            "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HAL_heritage_centre_and_aerospace_museum_bangalore_7641.JPG/1280px-HAL_heritage_centre_and_aerospace_museum_bangalore_7641.JPG",
+            "name": "HAL heritage centre & aerospace museum",
+            "regionId": "Bangalore"
+        }
+		
+    ],
+    "region": [
+        {
+            "id": 1,
+            "name": "Pune"
+        },
+        {
+            "id": 2,
+            "name": "Bangalore" 
+        }
+    ]
+}
